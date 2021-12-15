@@ -3,6 +3,12 @@ Lightweight shopping list app with a local database synchronized between devices
 
 <img src="https://raw.githubusercontent.com/fireinureeyes/shopping-list/main/app-screenshot.png" width="200">
 
+## Features:
+- Add shopping list item by searching
+- Add custom note to any item in the cart
+- Add general note (e.g. for items not in the app) also synced online
+- Adding items to buy and removing items from the cart
+
 ## How to get started after pulling this repository:
 1. Create a new Firebase project https://firebase.google.com/
 2. Within the project, create a realtime database with the following structure:
