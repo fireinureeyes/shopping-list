@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="primary">#007AB0</color>
+    <color name="primary.dark">#006C9C</color>
+    <color name="list.background">#FAFAFA</color>
+    <color name="text.color">#777777</color>
+    <color name="separator">#CCCCCC</color>
+    <color name="item.selected">#FFFFFF</color>
+    <color name="item.unselected">#FFFFFF</color>
+
+</resources>

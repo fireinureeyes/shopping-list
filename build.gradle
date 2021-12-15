@@ -1,0 +1,39 @@
+buildscript
+{
+    repositories
+    {
+        google()
+        jcenter()
+
+    }
+
+    dependencies
+    {
+        classpath 'com.android.tools.build:gradle:7.0.3'
+        classpath 'com.google.gms:google-services:4.3.10'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.8.1'
+    }
+}
+
+allprojects
+{
+    repositories
+    {
+        google()
+        jcenter()
+
+        maven
+        {
+            url 'https://s3.amazonaws.com/repo.commonsware.com'
+        }
+    }
+
+    ext
+    {
+        support = '27.1.1'
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
