@@ -84,6 +84,12 @@ public abstract class BaseView<O, C> {
         imageView.setOnClickListener(onClickListener);
     }
 
+    protected void enableToolbar(@DrawableRes int resId) {
+        ImageView imageView = view.findViewById(R.id.toolbar_action);
+        imageView.setVisibility(View.VISIBLE);
+        imageView.setImageResource(resId);
+    }
+
     protected void disableToolbarAction() {
         ImageView imageView = view.findViewById(R.id.toolbar_action);
         imageView.setVisibility(View.GONE);
