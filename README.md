@@ -1,7 +1,9 @@
 # shopping-list
 Lightweight shopping list app with a local database synchronized between devices over Firebase based on https://github.com/mauriciotogneri/shoppinglist
 
-<img src="https://raw.githubusercontent.com/fireinureeyes/shopping-list/main/app-screenshot.png" width="200">
+<img src="https://raw.githubusercontent.com/fireinureeyes/shopping-list/main/app-screenshot-1.png" width="200">
+<img src="https://raw.githubusercontent.com/fireinureeyes/shopping-list/main/app-screenshot-2.png" width="200">
+<img src="https://raw.githubusercontent.com/fireinureeyes/shopping-list/main/app-screenshot-3.png" width="200">
 
 ## Features:
 - Add shopping list item by searching
