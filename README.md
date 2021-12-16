@@ -17,7 +17,7 @@ Lightweight shopping list with a local database synchronized between devices ove
 ## How to get started after pulling this repository:
 1. Create a new Firebase project https://firebase.google.com/
 2. Within the project, create a realtime database with the following structure:
-'items' root node with 203 key-value pairs, where key is the item ID and value 0/1 expresses whether the item is currently in the shopping cart
+'items' root node with 203 key-value pairs, where key is the item ID and value expresses whether the item is currently in the shopping cart (0=no, 1=yes, anything else=yes with a note)
 
 ![database](https://raw.githubusercontent.com/fireinureeyes/shopping-list/main/database.png)
 
