@@ -9,6 +9,7 @@ import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.AutoCompleteTextView;
 import android.widget.EditText;
+import android.widget.TextView;
 
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -48,7 +49,7 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
         dbRef = FirebaseDatabase.getInstance(this.getString(R.string.database_url)).getReference("items");
 
         task.updateFromFirebase(editText);
-        reloadProducts();
+        reloadProducts("");
     }
 
     private void handleExtraItemsEditText() {
@@ -88,7 +89,7 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
                 if (clickedItem.inCart.equals("0")) {
                     dao.moveToCart(clickedItem.id(), "1", false);
                     dbRef.child(String.valueOf(clickedItem.id())).setValue("1");
-                    reloadProducts();
+                    reloadProducts(String.valueOf(dao.inCart().size()));
                 }
             }
         });
@@ -102,9 +103,9 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
     @Override
     public void onProductSelected(Product product) {
         UpdateProducts task = new UpdateProducts(this);
-
+        ProductDao dao = ProductDao.instance(this);
         task.removeFromCart(product);
-        reloadProducts();
+        reloadProducts(String.valueOf(dao.inCart().size()));
     }
 
     @Override
@@ -112,8 +113,8 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
 
         LoadProductsInCart task = new LoadProductsInCart(this, this, view);
         task.updateFromFirebase(editText);
-
-        reloadProducts();
+        ProductDao dao = ProductDao.instance(this);
+        reloadProducts(String.valueOf(dao.inCart().size()));
     }
 
     @Override
@@ -151,10 +152,13 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
         return result.toString();
     }
 
-    public void reloadProducts() {
+    public void reloadProducts(String s) {
         view.updateList();
         LoadProductsInCart task = new LoadProductsInCart(this, this, view);
         task.execute();
+
+        TextView sumText = (TextView) findViewById(R.id.sum);
+        sumText.setText(s);
     }
 
     @Override
@@ -163,8 +167,8 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
         preferences.migrationDone();
 
         handleAutocompleteTextView();
-
-        reloadProducts();
+        ProductDao dao = ProductDao.instance(this);
+        reloadProducts(String.valueOf(dao.inCart().size()));
     }
 
     @Override
@@ -172,11 +176,12 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
         super.onResume();
 
         NormalPreferences preferences = new NormalPreferences(this);
+        ProductDao dao = ProductDao.instance(this);
 
         if (preferences.isMigrationDone()) {
             LoadProductsInCart task = new LoadProductsInCart(this, this, view);
             task.updateFromFirebase(editText);
-            reloadProducts();
+            reloadProducts(String.valueOf(dao.inCart().size()));
         } else {
             Migration migration = new Migration(this, this);
             migration.execute();
