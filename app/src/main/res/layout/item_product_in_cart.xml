@@ -50,7 +50,7 @@
             android:layout_marginRight="15dp"
             android:layout_weight="1"
             android:ems="8"
-            android:inputType="textPersonName"
+            android:inputType="textNoSuggestions"
             android:text=""
             android:textSize="16sp" />
 

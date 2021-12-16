@@ -37,13 +37,24 @@
                 android:id="@+id/toolbar.title"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
+                android:layout_weight="12"
                 android:ellipsize="end"
                 android:gravity="center_vertical|start"
                 android:maxLines="1"
                 android:textColor="@android:color/white"
                 android:textSize="16sp"
                 tools:text="@string/application.name" />
+
+            <TextView
+                android:id="@+id/sum"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:ellipsize="end"
+                android:gravity="center_vertical|start"
+                android:maxLines="1"
+                android:textColor="@android:color/white"
+                android:textSize="16sp" />
 
             <ImageView
                 android:id="@+id/toolbar.action"
