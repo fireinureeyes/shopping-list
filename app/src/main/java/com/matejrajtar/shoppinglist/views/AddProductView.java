@@ -33,6 +33,8 @@ public class AddProductView extends BaseView<AddProductViewObserver, ViewContain
 
         ui.pagerHeader.setDrawFullUnderline(false);
         ui.pagerHeader.setTabIndicatorColor(color(R.color.primary));
+
+        enableToolbar(R.drawable.ic_gear_big);
     }
 
     public void updateLists(FragmentManager fragmentManager, List<Category> categories) {
