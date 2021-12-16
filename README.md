@@ -1,5 +1,5 @@
-# shopping-list
-Lightweight shopping list app with a local database synchronized between devices over Firebase based on https://github.com/mauriciotogneri/shoppinglist
+# Firebase-synced shopping list app for Android
+Lightweight shopping list with a local database synchronized between devices over Firebase based on https://github.com/mauriciotogneri/shoppinglist
 
 <p float="left">
 <img src="https://raw.githubusercontent.com/fireinureeyes/shopping-list/main/app-screenshot-1.png" width="200">
