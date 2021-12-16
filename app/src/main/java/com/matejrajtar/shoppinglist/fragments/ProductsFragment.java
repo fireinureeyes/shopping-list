@@ -1,8 +1,11 @@
 package com.matejrajtar.shoppinglist.fragments;
 
 import android.os.Bundle;
+import android.widget.TextView;
 
+import com.matejrajtar.shoppinglist.R;
 import com.matejrajtar.shoppinglist.base.BaseFragment;
+import com.matejrajtar.shoppinglist.database.ProductDao;
 import com.matejrajtar.shoppinglist.model.Product;
 import com.matejrajtar.shoppinglist.tasks.product.LoadProductsByCategory;
 import com.matejrajtar.shoppinglist.tasks.product.LoadProductsByCategory.OnProductsLoaded;
@@ -33,6 +36,10 @@ public class ProductsFragment extends BaseFragment<ProductsListView> implements 
     @Override
     public void onProductsLoaded(List<Product> products) {
         view.updateList(products);
+
+        TextView sumText = (TextView) getActivity().findViewById(R.id.sum);
+        ProductDao dao = ProductDao.instance(getContext());
+        sumText.setText(String.valueOf(dao.inCart().size()));
     }
 
     public String title() {
@@ -45,6 +52,10 @@ public class ProductsFragment extends BaseFragment<ProductsListView> implements 
         task.moveToCart(product);
 
         view.removeProduct(product);
+
+        TextView sumText = (TextView) getActivity().findViewById(R.id.sum);
+        ProductDao dao = ProductDao.instance(getContext());
+        sumText.setText(String.valueOf(dao.inCart().size()));
 
         Analytics analytics = new Analytics(getContext());
         analytics.cartItemAdded(product);
