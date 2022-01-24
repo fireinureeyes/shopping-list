@@ -49,7 +49,7 @@
                 android:id="@+id/sum"
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
-                android:layout_weight="1"
+                android:layout_weight="3"
                 android:ellipsize="end"
                 android:gravity="center_vertical|start"
                 android:maxLines="1"
