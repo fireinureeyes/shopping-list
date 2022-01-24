@@ -71,8 +71,9 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:hint="@string/save_extra_items"
+            android:lineSpacingExtra="10dp"
             android:textSize="14sp"
-            android:lineSpacingExtra="10dp" />
+            android:inputType="textNoSuggestions"/>
 
     </RelativeLayout>
 
