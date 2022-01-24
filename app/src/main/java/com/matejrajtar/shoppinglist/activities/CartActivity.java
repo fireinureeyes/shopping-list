@@ -1,9 +1,12 @@
 package com.matejrajtar.shoppinglist.activities;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
 import android.text.TextUtils;
+import android.view.KeyEvent;
 import android.view.View;
+import android.view.inputmethod.EditorInfo;
 import android.view.inputmethod.InputMethodManager;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -62,6 +65,13 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
                     InputMethodManager inputMethodManager = (InputMethodManager) getSystemService(Activity.INPUT_METHOD_SERVICE);
                     inputMethodManager.hideSoftInputFromWindow(view.getWindowToken(), 0);
                 }
+            }
+        });
+        editText.setOnEditorActionListener(new TextView.OnEditorActionListener() {
+            @Override
+            public boolean onEditorAction(TextView v, int keyCode, KeyEvent event) {
+                editText.clearFocus();
+                return true;
             }
         });
     }
@@ -158,7 +168,8 @@ public class CartActivity extends BaseActivity<CartView> implements CartViewObse
         task.execute();
 
         TextView sumText = (TextView) findViewById(R.id.sum);
-        sumText.setText(s);
+        if (s.equals("1")) {sumText.setText(s+" item");} else {
+        sumText.setText(s+" items");}
     }
 
     @Override

@@ -2,8 +2,13 @@ package com.matejrajtar.shoppinglist.activities;
 
 import android.content.Intent;
 
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.matejrajtar.shoppinglist.R;
 import com.matejrajtar.shoppinglist.base.BaseActivity;
+import com.matejrajtar.shoppinglist.database.ProductDao;
 import com.matejrajtar.shoppinglist.model.Category;
+import com.matejrajtar.shoppinglist.model.Product;
 import com.matejrajtar.shoppinglist.tasks.category.LoadCategories;
 import com.matejrajtar.shoppinglist.tasks.category.LoadCategories.OnCategoriesLoaded;
 import com.matejrajtar.shoppinglist.views.AddProductView;
@@ -12,6 +17,10 @@ import com.matejrajtar.shoppinglist.views.AddProductView.AddProductViewObserver;
 import java.util.List;
 
 public class AddProductActivity extends BaseActivity<AddProductView> implements AddProductViewObserver, OnCategoriesLoaded {
+
+    private DatabaseReference dbRef;
+
+
     @Override
     public void onCategoriesLoaded(List<Category> categories) {
         view.updateLists(getSupportFragmentManager(), categories);
@@ -20,6 +29,19 @@ public class AddProductActivity extends BaseActivity<AddProductView> implements 
     @Override
     public void onBack() {
         finish();
+    }
+
+    @Override
+    public void onShare() {
+        dbRef = FirebaseDatabase.getInstance(this.getString(R.string.database_url)).getReference("items");
+        ProductDao dao = ProductDao.instance(this);
+        List<Product> productList = dao.inCart();
+        for (Product product : productList) {
+            dao.moveToCart(product.id(), "0", false);
+            dbRef.child(String.valueOf(product.id())).setValue("0");
+        }
+        LoadCategories task = new LoadCategories(this, this);
+        task.execute();
     }
 
     @Override
