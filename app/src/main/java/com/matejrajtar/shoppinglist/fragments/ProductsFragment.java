@@ -39,7 +39,10 @@ public class ProductsFragment extends BaseFragment<ProductsListView> implements 
 
         TextView sumText = (TextView) getActivity().findViewById(R.id.sum);
         ProductDao dao = ProductDao.instance(getContext());
-        sumText.setText(String.valueOf(dao.inCart().size()));
+        Integer i = dao.inCart().size();
+
+        if (String.valueOf(i).equals("1")) {sumText.setText(i+" item");} else {
+            sumText.setText(i+" items");}
     }
 
     public String title() {
@@ -55,7 +58,11 @@ public class ProductsFragment extends BaseFragment<ProductsListView> implements 
 
         TextView sumText = (TextView) getActivity().findViewById(R.id.sum);
         ProductDao dao = ProductDao.instance(getContext());
-        sumText.setText(String.valueOf(dao.inCart().size()));
+
+        Integer i = dao.inCart().size();
+
+        if (String.valueOf(i).equals("1")) {sumText.setText(i+" item");} else {
+            sumText.setText(i+" items");}
 
         Analytics analytics = new Analytics(getContext());
         analytics.cartItemAdded(product);
