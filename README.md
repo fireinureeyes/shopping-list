@@ -21,7 +21,7 @@ Lightweight shopping list with a local database synchronized between devices ove
 
 ![database](https://raw.githubusercontent.com/fireinureeyes/shopping-list/main/database.png)
 
-3. Download google-services.json of from the Firebase project setttings
+3. Download google-services.json from the Firebase project setttings
 4. Place the google-services.json file directly to the 'app' folder
 5. Get the database URL from the file and use it to replace 'database_url' string in shoppinglist-master\app\src\main\res\values\strings.xml
 
