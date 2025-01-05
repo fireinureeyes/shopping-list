@@ -1,0 +1,922 @@
+[
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_canned_tomatoes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\canned_tomatoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_bay_leaves.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\bay_leaves.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_screen_add_product.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\screen_add_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_green_beans.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\green_beans.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_muesli_bars.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\muesli_bars.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_paper_towels.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\paper_towels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_basil.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\basil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_beetroot.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\beetroot.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tuna.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tuna.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rosemary.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rosemary.jpg"
+    },
+    {
+        "merged": "com.matejrajtar.shoppinglist.app-merged_res-24:/drawable_ic_gear_big.xml.flat",
+        "source": "com.matejrajtar.shoppinglist.app-main-25:/drawable/ic_gear_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_flour.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\flour.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_chickpeas.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\chickpeas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_shredded_coconut.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\shredded_coconut.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cinnamon.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cinnamon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ic_gear_big.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ic_gear_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_item_product_available.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\item_product_available.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ayran.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ayran.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pasta_sauce.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pasta_sauce.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_paprika_seasoning.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\paprika_seasoning.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cauliflower.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cauliflower.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cranberries.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cranberries.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_parmesan.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\parmesan.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_interdental_toothbrush.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\interdental_toothbrush.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_vinegar.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\vinegar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_croutons.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\croutons.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tomato_paste.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tomato_paste.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_lentils.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\lentils.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_toilet_paper.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\toilet_paper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_chicken.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\chicken.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_oregano.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\oregano.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_lime.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\lime.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tofu.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tofu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_fruit.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\fruit.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_view_category_products.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\view_category_products.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_bananas.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\bananas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_screen_create_product.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\screen_create_product.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_coriander.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\coriander.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_soap.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\soap.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_vanilla_sugar.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\vanilla_sugar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_leek_spring_onion.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\leek_spring_onion.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_mozzarella.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\mozzarella.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_butter.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\butter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_toast_bread.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\toast_bread.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_chia_seeds.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\chia_seeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ic_arrow_left.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ic_arrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_kaki.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\kaki.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_salad.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\salad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_knedla.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\knedla.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_camembert.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\camembert.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_floor_cloths.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\floor_cloths.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_quark.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\quark.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rice_noodles.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rice_noodles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_avocado.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\avocado.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_muesli.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\muesli.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tampons.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tampons.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_item_category.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\item_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_salt.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\salt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_screen_manage_categories.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\screen_manage_categories.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_plastic_bags.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\plastic_bags.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_coffee.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\coffee.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cocoa_powder.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cocoa_powder.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_sushi.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\sushi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_sour_cream.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\sour_cream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_shower_gel.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\shower_gel.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_raspberries.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\raspberries.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_paprika.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\paprika.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_dried_tomatoes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\dried_tomatoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_vianocka.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\vianocka.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_soup_veggies.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\soup_veggies.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_gnocchi.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\gnocchi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_screen_search_image.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\screen_search_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pudding.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pudding.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tissues.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tissues.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_mie_noodles.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\mie_noodles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cucumber.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cucumber.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_frozen_peas.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\frozen_peas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_bamboo_shoots.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\bamboo_shoots.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_peanut_butter.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\peanut_butter.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_deodorant.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\deodorant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_chocolate.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\chocolate.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_red_onions.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\red_onions.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_mouth_wash.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\mouth_wash.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_sour_cabbage.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\sour_cabbage.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_bread.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\bread.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_mineral_water.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\mineral_water.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_buttermilk.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\buttermilk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_poppy_seeds.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\poppy_seeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_oatmeal.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\oatmeal.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_broccoli.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\broccoli.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_margarin.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\margarin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_bacon.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\bacon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_salami.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\salami.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_berries.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\berries.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cherry_tomatoes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cherry_tomatoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_meat.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\meat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_honey.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\honey.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_liver.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\liver.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_parsley.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\parsley.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_softener.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\softener.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_mushrooms.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\mushrooms.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_minced_meat.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\minced_meat.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_mayonnaise.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\mayonnaise.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_wine.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\wine.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_frozen_fruits.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\frozen_fruits.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_spinach.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\spinach.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_garlic_flakes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\garlic_flakes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_canned_corn.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\canned_corn.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_hollandaise_sauce.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\hollandaise_sauce.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_milk_rice.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\milk_rice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ketchup.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ketchup.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_seafood.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\seafood.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_important_stuff.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\important_stuff.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_horseradish.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\horseradish.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_frozen_veggies.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\frozen_veggies.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tomatoes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tomatoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rice_milk.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rice_milk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_spaghetti.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\spaghetti.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_sausages.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\sausages.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_milk.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\milk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pumpkin_seeds.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pumpkin_seeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rubbish_bin_bags.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rubbish_bin_bags.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_dill.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\dill.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_onions.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\onions.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_thyme.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\thyme.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_melon.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\melon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_coconut_milk.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\coconut_milk.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_fish_fingers.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\fish_fingers.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pickles.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pickles.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ic_plus.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ic_plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_radler.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\radler.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cider.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cider.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_garlic.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\garlic.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_celery.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\celery.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_item_product_in_cart.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\item_product_in_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_nuts.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\nuts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rama.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rama.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ice_salad.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ice_salad.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_canned_beans.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\canned_beans.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_dried_mushrooms.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\dried_mushrooms.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_salmon.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\salmon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_black_pepper.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\black_pepper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_bagels.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\bagels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\xml_app_tracker.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\xml\\app_tracker.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_mustard.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\mustard.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_shampoo.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\shampoo.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rukola.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rukola.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_grapes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\grapes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_bell_peppers.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\bell_peppers.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cumin.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cumin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_olives.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\olives.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_vanilla_extract.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\vanilla_extract.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pasta.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pasta.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_beer.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\beer.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_danish_bread.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\danish_bread.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_sweet_potatoes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\sweet_potatoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_kohlrabi.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\kohlrabi.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_dish_soap.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\dish_soap.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_hummus.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\hummus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_banana_chips.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\banana_chips.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_toolbar.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_toothpaste.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\toothpaste.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pesto.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pesto.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rice.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tea.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tea.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_yogurt.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\yogurt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_aubergine_eggplant.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\aubergine_eggplant.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_baking_paper.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\baking_paper.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_mandarins.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\mandarins.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pizza.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pizza.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cheese.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cheese.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_biscuits.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\biscuits.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rice_wine_vinegar.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rice_wine_vinegar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tomato_sauce.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tomato_sauce.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_screen_cart.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\screen_cart.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_instant_soup.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\instant_soup.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_detergent.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\detergent.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_coke.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\coke.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ginger.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ginger.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_quinoa.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\quinoa.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_view_footer.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\view_footer.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_toothbrush.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\toothbrush.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_sugar.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\sugar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_zucchini.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\zucchini.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ic_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_cream.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\cream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_eggs.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\eggs.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pineapple.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pineapple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_product_background_selector.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\product_background_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_dough.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\dough.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_oil.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\oil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\layout_view_dialog_input.xml.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\layout\\view_dialog_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_ham.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\ham.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_lemon.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\lemon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_domestos.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\domestos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_tortillas.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\tortillas.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_raisins.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\raisins.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_potato_croquetts.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\potato_croquetts.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_multivitamin.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\multivitamin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_chewing_gum.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\chewing_gum.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_aluminium_foil.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\aluminium_foil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_homebake_bagels.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\homebake_bagels.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_dish_sponge.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\dish_sponge.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_potatoes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\potatoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_instant_mashed_potatoes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\instant_mashed_potatoes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_rice_cakes.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\rice_cakes.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_apples.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\apples.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_whipped_cream.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\whipped_cream.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_juice.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\juice.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_sunflower_seeds.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\sunflower_seeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_curry_paste.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\curry_paste.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_schnittlauch.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\schnittlauch.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_carrots.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\carrots.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_olive_oil.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\olive_oil.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_fish.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\fish.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_dishwasher_salt.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\dishwasher_salt.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_soy_sauce.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\soy_sauce.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_bouillon.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\bouillon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_pumpkin.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\pumpkin.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_sesame_seeds.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\sesame_seeds.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_asparagus.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\asparagus.jpg"
+    },
+    {
+        "merged": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-merged_res-24:\\drawable_popcorn.jpg.flat",
+        "source": "C:\\Users\\matej\\.gradle\\daemon\\8.10\\com.matejrajtar.shoppinglist.app-main-25:\\drawable\\popcorn.jpg"
+    }
+]

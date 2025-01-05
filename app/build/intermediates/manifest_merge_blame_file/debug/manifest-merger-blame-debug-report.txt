@@ -1,0 +1,260 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.matejrajtar.shoppinglist"
+4    android:versionCode="13"
+5    android:versionName="2.1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:6:5-67
+11-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:6:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:7:5-79
+12-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:7:22-76
+13    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+13-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:8:5-78
+13-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:8:22-75
+14    <uses-permission android:name="android.permission.CAMERA" />
+14-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:9:5-65
+14-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:9:22-62
+15    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+15-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:10:5-80
+15-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:10:22-77
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:11:5-66
+16-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:11:22-63
+17
+18    <!-- Optional permission for Analytics to run. -->
+19    <uses-permission android:name="android.permission.WAKE_LOCK" />
+19-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:27:5-68
+19-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:27:22-65
+20
+21    <application
+21-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:13:5-97:19
+22        android:name="com.matejrajtar.shoppinglist.app.ShoppingList"
+22-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:14:9-69
+23        android:allowBackup="false"
+23-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:15:9-36
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.5.0] C:\Users\matej\.gradle\caches\8.10\transforms\c361fc7d8f64e02e2ee713749251e7ac\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+25        android:debuggable="true"
+26        android:icon="@mipmap/ic_launcher"
+26-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:16:9-43
+27        android:label="@string/application.name"
+27-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:17:9-49
+28        android:supportsRtl="false"
+28-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:18:9-36
+29        android:theme="@style/app.theme" >
+29-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:19:9-41
+30        <activity
+30-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:22:9-46:20
+31            android:name="com.matejrajtar.shoppinglist.activities.CartActivity"
+31-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:23:13-80
+32            android:exported="true"
+32-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:25:13-36
+33            android:screenOrientation="portrait"
+33-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:24:13-49
+34            android:windowSoftInputMode="adjustPan" >
+34-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:26:13-52
+35            <intent-filter>
+35-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:28:13-31:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:29:17-69
+36-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:29:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:30:17-77
+38-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:30:27-74
+39            </intent-filter>
+40            <intent-filter>
+40-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:33:13-44:29
+41                <action android:name="android.intent.action.VIEW" />
+41-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:34:17-69
+41-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:34:25-66
+42
+43                <category android:name="android.intent.category.DEFAULT" />
+43-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:36:17-76
+43-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:36:27-73
+44                <category android:name="android.intent.category.BROWSABLE" />
+44-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:37:17-78
+44-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:37:27-75
+45
+46                <data
+46-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:39:17-42:46
+47                    android:host="google.com"
+47-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:40:21-46
+48                    android:pathPattern="/shoppinglist"
+48-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:41:21-56
+49                    android:scheme="https" />
+49-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:42:21-43
+50            </intent-filter>
+51        </activity>
+52        <activity
+52-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:48:9-50:52
+53            android:name="com.matejrajtar.shoppinglist.activities.AddProductActivity"
+53-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:49:13-86
+54            android:screenOrientation="portrait" />
+54-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:50:13-49
+55        <activity
+55-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:52:9-54:52
+56            android:name="com.matejrajtar.shoppinglist.activities.CreateProductActivity"
+56-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:53:13-89
+57            android:screenOrientation="portrait" />
+57-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:54:13-49
+58        <activity
+58-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:56:9-58:52
+59            android:name="com.matejrajtar.shoppinglist.activities.ManageCategoriesActivity"
+59-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:57:13-92
+60            android:screenOrientation="portrait" />
+60-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:58:13-49
+61        <activity
+61-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:60:9-63:58
+62            android:name="com.matejrajtar.shoppinglist.activities.SearchImageActivity"
+62-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:61:13-87
+63            android:screenOrientation="portrait"
+63-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:62:13-49
+64            android:windowSoftInputMode="stateVisible" />
+64-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:63:13-55
+65
+66        <meta-data
+66-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:65:9-67:47
+67            android:name="DATABASE"
+67-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:66:13-36
+68            android:value="shoppinglist.db" />
+68-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:67:13-44
+69        <meta-data
+69-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:69:9-71:33
+70            android:name="VERSION"
+70-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:70:13-35
+71            android:value="1" />
+71-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:71:13-30
+72        <meta-data
+72-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:73:9-75:37
+73            android:name="QUERY_LOG"
+73-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:74:13-37
+74            android:value="false" />
+74-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:75:13-34
+75        <meta-data
+75-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:77:9-79:60
+76            android:name="DOMAIN_PACKAGE_NAME"
+76-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:78:13-47
+77            android:value="com.matejrajtar.shoppinglist" />
+77-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:79:13-57
+78        <meta-data
+78-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:81:9-83:72
+79            android:name="io.fabric.ApiKey"
+79-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:82:13-44
+80            android:value="8cffce1302373dfaa1df9a1eaa9097d3bf4520fc" />
+80-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:83:13-69
+81
+82        <provider
+83            android:name="com.matejrajtar.shoppinglist.provider.LegacyCompatFileProvider"
+83-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:86:13-90
+84            android:authorities="com.matejrajtar.shoppinglist.provider"
+84-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:87:13-60
+85            android:exported="false"
+85-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:88:13-37
+86            android:grantUriPermissions="true" >
+86-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:89:13-47
+87            <meta-data
+87-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:91:13-93:58
+88                android:name="android.support.FILE_PROVIDER_PATHS"
+88-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:92:17-67
+89                android:resource="@xml/provider_paths" />
+89-->C:\Users\matej\Desktop\shoppinglist-master\app\src\main\AndroidManifest.xml:93:17-55
+90        </provider>
+91
+92        <receiver
+92-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:30:9-34:20
+93            android:name="com.google.android.gms.analytics.AnalyticsReceiver"
+93-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:31:13-78
+94            android:enabled="true"
+94-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:32:13-35
+95            android:exported="false" >
+95-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:33:13-37
+96        </receiver>
+97
+98        <service
+98-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:36:9-39:40
+99            android:name="com.google.android.gms.analytics.AnalyticsService"
+99-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:37:13-77
+100            android:enabled="true"
+100-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:38:13-35
+101            android:exported="false" />
+101-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:39:13-37
+102        <service
+102-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:40:9-44:72
+103            android:name="com.google.android.gms.analytics.AnalyticsJobService"
+103-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:41:13-80
+104            android:enabled="true"
+104-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:42:13-35
+105            android:exported="false"
+105-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:43:13-37
+106            android:permission="android.permission.BIND_JOB_SERVICE" />
+106-->[com.google.android.gms:play-services-analytics:17.0.1] C:\Users\matej\.gradle\caches\8.10\transforms\1ae4c16fdcafcfa4e91bc197d1e8f3ea\transformed\jetified-play-services-analytics-17.0.1\AndroidManifest.xml:44:13-69
+107        <service
+107-->[androidx.room:room-runtime:2.3.0] C:\Users\matej\.gradle\caches\8.10\transforms\5fe77931c9dd5d908e9a03d268a680b4\transformed\room-runtime-2.3.0\AndroidManifest.xml:25:9-28:40
+108            android:name="androidx.room.MultiInstanceInvalidationService"
+108-->[androidx.room:room-runtime:2.3.0] C:\Users\matej\.gradle\caches\8.10\transforms\5fe77931c9dd5d908e9a03d268a680b4\transformed\room-runtime-2.3.0\AndroidManifest.xml:26:13-74
+109            android:directBootAware="true"
+109-->[androidx.room:room-runtime:2.3.0] C:\Users\matej\.gradle\caches\8.10\transforms\5fe77931c9dd5d908e9a03d268a680b4\transformed\room-runtime-2.3.0\AndroidManifest.xml:27:13-43
+110            android:exported="false" />
+110-->[androidx.room:room-runtime:2.3.0] C:\Users\matej\.gradle\caches\8.10\transforms\5fe77931c9dd5d908e9a03d268a680b4\transformed\room-runtime-2.3.0\AndroidManifest.xml:28:13-37
+111        <service
+111-->[com.google.firebase:firebase-database:20.0.3] C:\Users\matej\.gradle\caches\8.10\transforms\c5670d0f6efd944d5f78bc36e1b7a5fc\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:29:9-35:19
+112            android:name="com.google.firebase.components.ComponentDiscoveryService"
+112-->[com.google.firebase:firebase-database:20.0.3] C:\Users\matej\.gradle\caches\8.10\transforms\c5670d0f6efd944d5f78bc36e1b7a5fc\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:30:13-84
+113            android:directBootAware="true"
+113-->[com.google.firebase:firebase-common:20.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\ccaf555639667fbb61feefee22d56224\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:35:13-43
+114            android:exported="false" >
+114-->[com.google.firebase:firebase-database:20.0.3] C:\Users\matej\.gradle\caches\8.10\transforms\c5670d0f6efd944d5f78bc36e1b7a5fc\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:31:13-37
+115            <meta-data
+115-->[com.google.firebase:firebase-database:20.0.3] C:\Users\matej\.gradle\caches\8.10\transforms\c5670d0f6efd944d5f78bc36e1b7a5fc\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:32:13-34:85
+116                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+116-->[com.google.firebase:firebase-database:20.0.3] C:\Users\matej\.gradle\caches\8.10\transforms\c5670d0f6efd944d5f78bc36e1b7a5fc\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:33:17-109
+117                android:value="com.google.firebase.components.ComponentRegistrar" />
+117-->[com.google.firebase:firebase-database:20.0.3] C:\Users\matej\.gradle\caches\8.10\transforms\c5670d0f6efd944d5f78bc36e1b7a5fc\transformed\jetified-firebase-database-20.0.3\AndroidManifest.xml:34:17-82
+118            <meta-data
+118-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\e6ff3cbb4a87c30cf9f6379a437698d9\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:20:13-22:85
+119                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+119-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\e6ff3cbb4a87c30cf9f6379a437698d9\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:21:17-111
+120                android:value="com.google.firebase.components.ComponentRegistrar" />
+120-->[com.google.firebase:firebase-firestore:24.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\e6ff3cbb4a87c30cf9f6379a437698d9\transformed\jetified-firebase-firestore-24.0.0\AndroidManifest.xml:22:17-82
+121        </service>
+122
+123        <provider
+123-->[com.google.firebase:firebase-common:20.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\ccaf555639667fbb61feefee22d56224\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:26:9-31:39
+124            android:name="com.google.firebase.provider.FirebaseInitProvider"
+124-->[com.google.firebase:firebase-common:20.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\ccaf555639667fbb61feefee22d56224\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:27:13-77
+125            android:authorities="com.matejrajtar.shoppinglist.firebaseinitprovider"
+125-->[com.google.firebase:firebase-common:20.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\ccaf555639667fbb61feefee22d56224\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:28:13-72
+126            android:directBootAware="true"
+126-->[com.google.firebase:firebase-common:20.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\ccaf555639667fbb61feefee22d56224\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:29:13-43
+127            android:exported="false"
+127-->[com.google.firebase:firebase-common:20.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\ccaf555639667fbb61feefee22d56224\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:30:13-37
+128            android:initOrder="100" />
+128-->[com.google.firebase:firebase-common:20.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\ccaf555639667fbb61feefee22d56224\transformed\jetified-firebase-common-20.0.0\AndroidManifest.xml:31:13-36
+129
+130        <activity
+130-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\matej\.gradle\caches\8.10\transforms\aa61f839cd0691817ecd7b490857794e\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
+131            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+131-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\matej\.gradle\caches\8.10\transforms\aa61f839cd0691817ecd7b490857794e\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:24:13-79
+132            android:exported="false"
+132-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\matej\.gradle\caches\8.10\transforms\aa61f839cd0691817ecd7b490857794e\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:25:13-37
+133            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+133-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\matej\.gradle\caches\8.10\transforms\aa61f839cd0691817ecd7b490857794e\transformed\jetified-play-services-base-17.1.0\AndroidManifest.xml:26:13-72
+134
+135        <meta-data
+135-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\3b78c66b0daa0b42605e09f65dfd1fc5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+136            android:name="com.google.android.gms.version"
+136-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\3b78c66b0daa0b42605e09f65dfd1fc5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+137            android:value="@integer/google_play_services_version" />
+137-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\matej\.gradle\caches\8.10\transforms\3b78c66b0daa0b42605e09f65dfd1fc5\transformed\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+138    </application>
+139
+140</manifest>

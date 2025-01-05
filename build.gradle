@@ -1,0 +1,47 @@
+buildscript
+{
+    repositories
+    {
+
+        jcenter()
+        google()
+        mavenCentral()
+        maven{ setUrl("http://maven.wafour.com:8081/artifactory/libs-release/")
+            allowInsecureProtocol = true}
+
+    }
+
+    dependencies
+    {
+        classpath 'com.android.tools.build:gradle:7.3.0'
+        classpath 'com.google.gms:google-services:4.3.14'
+        classpath 'com.google.firebase:firebase-crashlytics-gradle:2.8.1'
+    }
+}
+
+allprojects
+{
+    repositories
+    {
+
+        jcenter()
+        google()
+        mavenCentral()
+        maven{ setUrl("http://maven.wafour.com:8081/artifactory/libs-release/")
+            allowInsecureProtocol = true}
+
+        maven
+        {
+            url 'https://s3.amazonaws.com/repo.commonsware.com'
+        }
+    }
+
+    ext
+    {
+        support = '27.1.1'
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}
