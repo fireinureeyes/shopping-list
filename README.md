@@ -11,8 +11,8 @@ Lightweight shopping list with a local database synchronized between devices ove
 - Add shopping list item by searching
 - Add custom note to any item in the cart
 - Add general note (e.g. for items not in the app) also synced online
-- Adding items to buy and removing items from the cart
-- Showing the count of the items currently in cart
+- Adding items to buy and removing items from the cart with undo function
+- Showing the count of the items currently in cart and delete all
 
 ## How to get started after pulling this repository:
 1. Create a new Firebase project https://firebase.google.com/
